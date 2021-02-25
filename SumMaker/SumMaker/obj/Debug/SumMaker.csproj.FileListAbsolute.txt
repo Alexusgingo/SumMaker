@@ -1,0 +1,10 @@
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\bin\Debug\SumMaker.exe.config
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\bin\Debug\SumMaker.exe
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\bin\Debug\SumMaker.pdb
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\obj\Debug\SumMaker.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\obj\Debug\SumMaker.Form1.resources
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\obj\Debug\SumMaker.Properties.Resources.resources
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\obj\Debug\SumMaker.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\obj\Debug\SumMaker.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\obj\Debug\SumMaker.exe
+C:\Users\Алексей\source\repos\SumMaker\SumMaker\obj\Debug\SumMaker.pdb
